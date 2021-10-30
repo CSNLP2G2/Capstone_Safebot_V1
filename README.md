@@ -1,5 +1,7 @@
 # Capstone_Safebot_V1
-SAFEBOT chatbot for Industrial Safety Help 
+SAFEBOT chatbot for Industrial Safety Help
+
+ 
 DEPLOYMENT STRATEGY
 
 The complete architecture has been executed from a local test environment.
