@@ -1,0 +1,9 @@
+Random Forest,,,
+v  Gradient Boosting,,,
+v  Logistic Regression,,,
+Linear SVC model,,,
+,Model,Train Acc.,Test Acc
+,Random Forect,99.72%,39.06%
+,Gradiant Boosting,99.72%,45.31%
+,Logistic Regression,99.72%,46.88%
+,Liner SVC,99.72%,45.31%
